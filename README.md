@@ -14,7 +14,7 @@ I am a **Cybersecurity Specialist**<br>
 * 🌱   I'm learning advanced exploit development and reverse engineering.
 * 👨🏻‍💻   Most of my projects are available on my GitHub.
 * 💬   Ask me about Linux, network analysis, web vulnerabilities, or reverse engineering — happy to help.
-* 📫   Ping me on LinkedIn or GitHub.
+
 
 <br>
 
@@ -86,10 +86,10 @@ I am a **Cybersecurity Specialist**<br>
 
 ---
 
-### 📫 تواصل / Contact
+ 📫 تواصل / Contact
 
-* LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN`
-* GitHub: `https://github.com/YOUR-GITHUB`
-* Email: `your.email@example.com`
+* LinkedIn: ``
+* GitHub: ``
+* Email: `'
 
 ---
