@@ -2,7 +2,8 @@
 
 <a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='https://twitter.com/YOUR-TWITTER'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> <a href='https://github.com/YOUR-GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I am a **Cybersecurity Specialist** — skilled in penetration testing, digital forensics, Linux system administration, and web vulnerability exploitation. I enjoy building practical tools and running hands-on security assessments. <br/> <br/>
+I am a **Cybersecurity Specialist**<br>
+— skilled in penetration testing, digital forensics, Linux system administration, and web vulnerability exploitation. I enjoy building practical tools and running hands-on security assessments. <br/> <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
 
