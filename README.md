@@ -19,7 +19,48 @@ I am a **Cybersecurity Specialist** — skilled in penetration testing, digital 
 
  🔨 Languages and Tools / الأدوات واللغات:
 
-<a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg" alt="cpp" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="js" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/assembly/assembly.svg" alt="assembly" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/metasploit/metasploit.svg" alt="metasploit" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/burpsuite/burpsuite.svg" alt="burpsuite" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/wireshark/wireshark.svg" alt="wireshark" height="42px"/> </a> <a href="#" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a>
+<!-- Python -->
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="42" height="42"/>
+</a>
+
+<!-- C++ -->
+<a href="https://isocpp.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
+</a>
+
+
+<!-- Assembly -->
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="assembly"/>
+
+<!-- Metasploit -->
+<img src="https://img.shields.io/badge/Metasploit-258FF8?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
+
+<!-- Burp Suite -->
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+
+<!-- Wireshark -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
 
 <br>
 
