@@ -1,95 +1,77 @@
- Hey 👋, I'm **Yassin Alkhulaqi**
+# 👋 Hello, I'm Yassin Alkhulaqi
 
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='https://twitter.com/YOUR-TWITTER'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> <a href='https://github.com/YOUR-GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+🔒 **Cybersecurity Specialist | Pentester | Linux Enthusiast**
 
-I am a **Cybersecurity Specialist**<br>
-— skilled in penetration testing, digital forensics, Linux system administration, and web vulnerability exploitation. I enjoy building practical tools and running hands-on security assessments. <br/> <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](رابط_لينكدإن_هنا)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](رابط_تويتر_هنا)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/yassinalkhulaqi)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
+## 🛡️ About Me
+I am a passionate Cybersecurity Specialist skilled in:
+- **Penetration Testing** & Vulnerability Assessment
+- **Digital Forensics** & Incident Response
+- **Linux System Administration**
+- **Web Application Security**
+- **Security Automation** & Scripting
 
- 🧐 More About Me / نبذة:
+## 🔭 Currently Working On
+- Building practical pentest labs and environments
+- Developing automation scripts for reconnaissance
+- Participating in CTF challenges and security research
 
-* 🔭   I'm currently working on hands-on pentest labs and automation scripts for recon and exploitation.
-* 🤝   I collaborate on open-source security tooling and CTF challenges.
-* 🌱   I'm learning advanced exploit development and reverse engineering.
-* 👨🏻‍💻   Most of my projects are available on my GitHub.
-* 💬   Ask me about Linux, network analysis, web vulnerabilities, or reverse engineering — happy to help.
+## 🛠️ Technical Skills
 
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br>
+### **Security Tools**
+![Metasploit](https://img.shields.io/badge/Metasploit-2599ED?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2D72EE?style=for-the-badge)
 
- 🔨 Languages and Tools / الأدوات واللغات:
+### **Platforms & OS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Python -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-</a>
+## 📊 GitHub Stats
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinalkhulaqi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalkhulaqi&layout=compact&theme=dark)
 
-<!-- React -->
-<a href="https://reactjs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="42" height="42"/>
-</a>
+## 🚀 Featured Projects
 
-<!-- C++ -->
-<a href="https://isocpp.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
-</a>
+### [🔬 Pentest Labs](https://github.com/yassinalkhulaqi/pentest-labs)
+- Custom penetration testing environments
+- Vulnerable web applications for practice
+- Step-by-step exploitation guides
 
-<!-- Linux -->
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
-</a>
+### [🛡️ Wazuh Lab](https://github.com/yassinalkhulaqi/wazuh-lab)
+- SIEM deployment and configuration
+- Attack simulation and detection rules
+- Security monitoring implementation
 
-<!-- Docker -->
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
-</a>
+### [🤖 Recon Automation](https://github.com/yassinalkhulaqi/recon-scripts)
+- Python scripts for information gathering
+- OSINT automation tools
+- Vulnerability scanning utilities
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Understanding XSS Attacks](https://your-blog.com/xss)
+- [Linux Hardening Guide](https://your-blog.com/linux-hardening)
+- [Metasploit Fundamentals](https://your-blog.com/metasploit)
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Assembly -->
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="assembly"/>
-
-<!-- Metasploit -->
-<img src="https://img.shields.io/badge/Metasploit-258FF8?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
-
-<!-- Burp Suite -->
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
-
-<!-- Wireshark -->
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
-
-<br>
-
- 📊 Github Stats
-
-<a href='https://github.com/YOUR-GITHUB/github-stats-transparent'>
-
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
- 🛠️ Projects / مشاريع مختارة
-
-<a href="#" target="_blank"> <img alt="pentest-labs" src="./projects/pentest.svg" height="68" align="left"> </a> <a href="#" target="_blank"> <img alt="wazuh-lab" src="./projects/wazuh.svg"  height="68" align="left"> </a> <a href="#" target="_blank"> <img alt="recon-scripts" src="./projects/recon.svg" height="68" align="left"> </a>
-
-* **Wazuh Lab & Detection** — إعداد بيئة Wazuh، تنفيذ هجمات من Kali، وتحليل التنبيهات.
-* **Recon & Automation (Python)** — سكربتات لجمع معلومات وتهيئة تقارير OSINT.
-* **Web Pentest PoCs** — استغلال XSS, SQLi, file-upload وكتابة تقارير مهنية.
+## 📫 Connect With Me
+- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/yassinalkhulaqi](رابط_لينكدإن)
+- **Twitter**: [@yassinalkhulaqi](رابط_تويتر)
 
 ---
 
- 📫 تواصل / Contact
-
-* LinkedIn: ``
-* GitHub: ``
-* Email: `'
-
----
+⭐ **"Security is not a product, but a process."** - Bruce Schneier
