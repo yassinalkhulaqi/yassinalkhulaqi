@@ -68,10 +68,10 @@ I am a passionate Cybersecurity Specialist skilled in:
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect With Me
-- **Email**: your.email@example.com
+- **Email**: yassinalkolaqi@gmail.com
 - **LinkedIn**: [linkedin.com/in/yassinalkhulaqi](رابط_لينكدإن)
-- **Twitter**: [@yassinalkhulaqi](رابط_تويتر)
+
 
 ---
 
-⭐ **"Security is not a product, but a process."** - Bruce Schneier
+
