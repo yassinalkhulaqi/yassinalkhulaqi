@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Yassin Alkhulaqi
+#  Hello, I'm Yassin Alkhulaqi
 
 </div>
 
@@ -20,23 +20,6 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="150">
 </div>
 
-```text
- ┌────────────────────────────────────────────────────────┐
- │                                                        │
- │   $ whoami                                            │
- │   > yassinalkhulaqi                                    │
- │                                                        │
- │   $ nmap -sV -sC 127.0.0.1                            │
- │   > Scanning... ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% │
- │   > Vulnerabilities found: TOO MANY TO LIST 😈         │
- │                                                        │
- │   $ cat /etc/motd                                      │
- │   > "Stay hungry, stay hacky."                         │
- │                                                        │
- └────────────────────────────────────────────────────────┘
-```
-
-<br>
 
 <!-- ============================================================
      SOCIAL BADGES
@@ -69,11 +52,11 @@
 
 ---
 
-## 🛡 About Me
+##  About Me
 
 > I am a passionate **Cybersecurity Specialist** dedicated to protecting the digital world, one vulnerability at a time.
 
-| 🔍 What I Do | 🎯 My Mission |
+|  What I Do |  My Mission |
 |:------------|:--------------|
 | **Penetration Testing** & Vulnerability Assessment | Find the holes before the bad guys do |
 | **Digital Forensics** & Incident Response | Investigate, recover, and learn |
@@ -85,16 +68,16 @@
 
 ## 🔭 Currently Working On
 
-- 🧪 Building practical **pentest labs** and vulnerable environments
-- 🤖 Developing **automation scripts** for reconnaissance
-- 🏴☠ Participating in **CTF challenges** and security research
-- 📚 Deep-diving into **malware analysis** & reverse engineering
+-  Building practical **pentest labs** and vulnerable environments
+-  Developing **automation scripts** for reconnaissance
+-  Participating in **CTF challenges** and security research
+-  Deep-diving into **malware analysis** & reverse engineering
 
 <br>
 
-## 🛠 Technical Skills
+##  Technical Skills
 
-### 💻 Programming & Scripting
+###  Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -102,7 +85,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Security Tools
+###  Security Tools
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2599ED?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge)
@@ -114,14 +97,14 @@
 ![SQLmap](https://img.shields.io/badge/SQLmap-8F00FF?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-00CC00?style=for-the-badge)
 
-### 🐧 Platforms & OS
+###  Platforms & OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8EFF?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 Security Domains
+###  Security Domains
 
 ![Network Security](https://img.shields.io/badge/Network_Security-00B4D8?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/Web_Security-FF6B6B?style=for-the-badge)
@@ -132,7 +115,7 @@
 
 <br>
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
 
@@ -144,7 +127,7 @@
 
 <div align="center">
 
-### 🐍 Watch my contributions get eaten by a snake!
+###  Watch my contributions get eaten by a snake!
 
 ![Snake animation](https://github.com/yassinalkhulaqi/yassinalkhulaqi/blob/output/snake.svg?raw=true)
 
@@ -152,7 +135,7 @@
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table align="center">
   <tr>
@@ -169,7 +152,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinalkhulaqi&repo=wazuh-lab&theme=react&hide_border=true&bg_color=0D1117" alt="Wazuh Lab">
       </a>
       <br>
-      <b>🛡 Wazuh Lab</b>
+      <b> Wazuh Lab</b>
       <br>SIEM deployment & attack detection
     </td>
     <td align="center" width="33%">
@@ -177,7 +160,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinalkhulaqi&repo=recon-scripts&theme=react&hide_border=true&bg_color=0D1117" alt="Recon Automation">
       </a>
       <br>
-      <b>🤖 Recon Automation</b>
+      <b> Recon Automation</b>
       <br>OSINT & information gathering scripts
     </td>
   </tr>
@@ -185,17 +168,17 @@
 
 <br>
 
-## ⚡ Quick Stats
+##  Quick Stats
 
 ```
 ┌─────────────────────────┬─────────────────────────┐
-│ 🚀 Repos: ~Coming Soon  │ 🏆 CTFs: Let's go!      │
-│ 💻 Lines of code: ∞     │ 🕐 Last bug: fixed      │
-│ 🎯 Target: Root access  │ ☕ Caffeine: 100%        │
+│  Repos: ~Coming Soon  │  CTFs: Let's go!      │
+│ Lines of code: ∞     │  Last bug: fixed      │
+│  Target: Root access  │  Caffeine: 100%        │
 └─────────────────────────┴─────────────────────────┘
 ```
 
-## 📝 Latest Blog Posts
+##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding XSS Attacks](https://your-blog.com/xss)
@@ -206,16 +189,16 @@
 
 <br>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 | Method | Handle |
 |:-------|:-------|
-| 📧 **Email** | [yassinalkolaqi@gmail.com](mailto:yassinalkolaqi@gmail.com) |
-| 🔗 **LinkedIn** | [linkedin.com/in/yassinalkhulaqi](https://www.linkedin.com/in/yassinalkhulaqi) |
-| 🐦 **Twitter** | [@yassinalkhulaqi](https://twitter.com/yassinalkhulaqi) |
-| 💻 **GitHub** | [github.com/yassinalkhulaqi](https://github.com/yassinalkhulaqi) |
+|  **Email** | [yassinalkolaqi@gmail.com](mailto:yassinalkolaqi@gmail.com) |
+|  **LinkedIn** | [linkedin.com/in/yassinalkhulaqi](https://www.linkedin.com/in/yassinalkhulaqi) |
+|  **Twitter** | [@yassinalkhulaqi](https://twitter.com/yassinalkhulaqi) |
+|  **GitHub** | [github.com/yassinalkhulaqi](https://github.com/yassinalkhulaqi) |
 
 </div>
 
@@ -228,5 +211,5 @@
 </p>
 
 <p align="center">
-  <b>🔒 Rooted with ❤ by Yassin Alkhulaqi</b>
+  <b> Rooted with ❤ by Yassin Alkhulaqi</b>
 </p>
