@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Yassin Alkhulaqi
+#  Hello, I'm Yassin Alkhulaqi
 
 </div>
 
@@ -20,23 +20,7 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="150">
 </div>
 
-```text
- ┌────────────────────────────────────────────────────────┐
- │                                                        │
- │   $ whoami                                            │
- │   > yassinalkhulaqi                                    │
- │                                                        │
- │   $ nmap -sV -sC 127.0.0.1                            │
- │   > Scanning... ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% │
- │   > Vulnerabilities found: TOO MANY TO LIST 😈         │
- │                                                        │
- │   $ cat /etc/motd                                      │
- │   > "Stay hungry, stay hacky."                         │
- │                                                        │
- └────────────────────────────────────────────────────────┘
-```
 
-<br>
 
 <!-- ============================================================
      SOCIAL BADGES
@@ -69,7 +53,7 @@
 
 ---
 
-## 🛡 About Me
+##  About Me
 
 > I am a passionate **Cybersecurity Specialist** dedicated to protecting the digital world, one vulnerability at a time.
 
