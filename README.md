@@ -2,20 +2,32 @@
 
 # Yassin Alkhulaqi
 
-**Cybersecurity Specialist · Penetration Tester · Security Researcher**
+**Cybersecurity Specialist**  
+Penetration Testing · Linux · Web Security · Digital Forensics
 
-Practical security engineering, offensive security, Linux, and security automation.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1200&color=00FFAA&center=true&vCenter=true&width=520&height=30&lines=penetration-testing;web-security;linux;digital-forensics)
 
-<br>
+</div>
 
-[GitHub](https://github.com/yassinalkhulaqi) ·
-[LinkedIn](https://www.linkedin.com/in/yassinalkhulaqi) ·
-[Twitter](https://twitter.com/yassinalkhulaqi) ·
-[Email](mailto:yassinalkolaqi@gmail.com)
+```text
+$ whoami
+yassinalkhulaqi
 
-<br>
+$ focus
+penetration-testing
+web-security
+linux
+digital-forensics
 
-<img src="https://komarev.com/ghpvc/?username=yassinalkhulaqi&style=flat-square&color=00FFAA&label=PROFILE+VIEWS" alt="Profile Views">
+$ status
+building · learning · researching
+```
+
+<div align="center">
+
+[GitHub](https://github.com/yassinalkhulaqi) · [LinkedIn](https://www.linkedin.com/in/yassinalkhulaqi) · [Twitter](https://twitter.com/yassinalkhulaqi) · [Email](mailto:yassinalkolaqi@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yassinalkhulaqi&style=flat&color=00FFAA&label=profile+views) · ![Followers](https://img.shields.io/github/followers/yassinalkhulaqi?style=flat&color=00FFAA&label=followers)
 
 </div>
 
@@ -23,144 +35,89 @@ Practical security engineering, offensive security, Linux, and security automati
 
 ## About
 
-I'm a cybersecurity enthusiast focused on practical security engineering, penetration testing, Linux environments, web application security, and security research.
+I'm a cybersecurity enthusiast focused on offensive security, web application security, Linux environments, and practical security research. I enjoy building labs, automating security workflows, and turning security concepts into hands-on projects.
 
-I enjoy building realistic security labs, developing automation for reconnaissance and security workflows, working through CTF challenges, and exploring defensive and offensive security concepts.
+## What I Do
 
-My approach is simple:
-
-> Learn by building.
-> Test by doing.
-> Understand how systems fail — and how to make them stronger.
-
----
-
-## Security Focus
-
-| Area                | Focus                                                |
-| ------------------- | ---------------------------------------------------- |
-| Penetration Testing | Web and network security assessment                  |
-| Web Security        | Vulnerability discovery and application security     |
-| Security Research   | Practical experimentation and vulnerability research |
-| Linux               | System administration and security tooling           |
-| Digital Forensics   | Investigation and incident analysis                  |
-| Security Automation | Reconnaissance and workflow automation               |
-| CTF                 | Hands-on security challenges and problem solving     |
-
----
+| Area | Focus |
+| --- | --- |
+| Penetration Testing | Web and network security assessment |
+| Security Research | Vulnerability research and experimentation |
+| Digital Forensics | Investigation and incident analysis |
+| Linux | System administration and security tooling |
+| Automation | Security scripting and workflow automation |
 
 ## Currently
 
-* Building practical penetration-testing labs and vulnerable environments
-* Developing reconnaissance and security automation scripts
-* Participating in CTF challenges and security research
-* Exploring malware analysis and reverse engineering
-* Improving practical offensive and defensive security skills
-
----
+- Building practical penetration-testing labs
+- Developing reconnaissance automation
+- Working through CTF challenges
+- Exploring malware analysis and reverse engineering
 
 ## Technical Skills
 
-### Languages
+**Languages**  
+Python · C++ · JavaScript · Bash · SQL
 
-`Python` `C++` `JavaScript` `Bash` `SQL`
+**Security**  
+Burp Suite · Metasploit · Nmap · Wireshark · SQLmap · Hydra · Hashcat · John the Ripper · Nessus
 
-### Security Tooling
+**Platforms**  
+Linux · Kali Linux · Parrot OS · Docker
 
-`Burp Suite` `Metasploit` `Nmap` `Wireshark` `SQLmap`
-`Hydra` `Hashcat` `John the Ripper` `Nessus`
-
-### Platforms & Infrastructure
-
-`Linux` `Kali Linux` `Parrot OS` `Docker`
-
-### Security Domains
-
-`Web Security` · `Network Security` · `OSINT` · `Red Team` · `Blue Team` · `Cloud Security`
-
----
-
-## Featured Projects
-
-### Pentest Labs
-
-Practical vulnerable environments designed for hands-on penetration testing, security experimentation, and learning.
-
-**Focus:** `Pentesting` `Web Security` `Linux`
-
-[View Repository](https://github.com/yassinalkhulaqi/pentest-labs)
-
----
-
-### Wazuh Lab
-
-A security monitoring and SIEM laboratory focused on attack detection, monitoring, and incident visibility.
-
-**Focus:** `SIEM` `Blue Team` `Security Monitoring`
-
-[View Repository](https://github.com/yassinalkhulaqi/wazuh-lab)
-
----
-
-### Recon Automation
-
-Security reconnaissance and information-gathering automation designed to make repetitive security workflows faster and more efficient.
-
-**Focus:** `Python` `OSINT` `Automation`
-
-[View Repository](https://github.com/yassinalkhulaqi/recon-scripts)
-
----
+**Security Domains**  
+Web Security · Network Security · OSINT · Blue Team · Red Team · Cloud Security
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yassinalkhulaqi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9&count_private=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalkhulaqi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9" height="165">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinalkhulaqi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalkhulaqi&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassinalkhulaqi&theme=react&hide_border=true&background=0D1117)
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinalkhulaqi&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak">
+![Snake](https://github.com/yassinalkhulaqi/yassinalkhulaqi/blob/output/snake.svg?raw=true)
 
 </div>
 
----
+## Featured Projects
 
-## Contribution Activity
+### Pentest Labs
 
-<div align="center">
+Practical vulnerable environments designed for hands-on penetration testing and security learning.
 
-<img src="https://github.com/yassinalkhulaqi/yassinalkhulaqi/blob/output/snake.svg?raw=true" alt="Contribution Activity" width="90%">
+`Web Security` · `Linux` · `Pentesting`
 
-</div>
+[Repository](https://github.com/yassinalkhulaqi/pentest-labs)
 
----
+### Wazuh Lab
+
+Security monitoring and SIEM lab focused on attack detection and incident visibility.
+
+`SIEM` · `Blue Team` · `Wazuh`
+
+[Repository](https://github.com/yassinalkhulaqi/wazuh-lab)
+
+### Recon Automation
+
+Security reconnaissance and OSINT automation scripts.
+
+`Python` · `OSINT` · `Automation`
+
+[Repository](https://github.com/yassinalkhulaqi/recon-scripts)
+
+## Focus
+
+Penetration Testing · Web Security · Linux · Security Automation · Digital Forensics · CTF / Security Research
 
 ## Connect
 
-<div align="center">
-
-**GitHub** · **LinkedIn** · **Twitter** · **Email**
-
-<br>
-
-[github.com/yassinalkhulaqi](https://github.com/yassinalkhulaqi)
-[linkedin.com/in/yassinalkhulaqi](https://www.linkedin.com/in/yassinalkhulaqi)
-[@yassinalkhulaqi](https://twitter.com/yassinalkhulaqi)
-[yassinalkolaqi@gmail.com](mailto:yassinalkolaqi@gmail.com)
-
-</div>
+[GitHub](https://github.com/yassinalkhulaqi) · [LinkedIn](https://www.linkedin.com/in/yassinalkhulaqi) · [Twitter](https://twitter.com/yassinalkhulaqi) · [Email](mailto:yassinalkolaqi@gmail.com)
 
 ---
 
-<div align="center">
-
-<sub>Built with curiosity, security research, and a lot of terminal sessions.</sub>
-
-</div>
+Built by Yassin Alkhulaqi 
