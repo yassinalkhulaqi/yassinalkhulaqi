@@ -20,24 +20,6 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="150">
 </div>
 
-```text
- ┌────────────────────────────────────────────────────────┐
- │                                                        │
- │   $ whoami                                            │
- │   > yassinalkhulaqi                                    │
- │                                                        │
- │   $ nmap -sV -sC 127.0.0.1                            │
- │   > Scanning... ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% │
- │   > Vulnerabilities found: TOO MANY TO LIST 😈         │
- │                                                        │
- │   $ cat /etc/motd                                      │
- │   > "Stay hungry, stay hacky."                         │
- │                                                        │
- └────────────────────────────────────────────────────────┘
-```
-
-<br>
-
 <!-- ============================================================
      SOCIAL BADGES
      ============================================================ -->
